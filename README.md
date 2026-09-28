@@ -1,5 +1,9 @@
 # Two-Way Encrypted Chat (Manual DES)
 
+| Name | NRP |
+|---|---|
+| Yoseph Kevin Hendrata | 5025241146 |
+
 A simple chat between two devices (sender ⇄ receiver) over TCP.
 Every message is encrypted with **DES implemented manually** before it is sent, and decrypted on the other side.
 

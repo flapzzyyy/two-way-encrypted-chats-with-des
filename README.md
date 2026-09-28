@@ -67,4 +67,4 @@ Example output:
 
 ## License
 
-Copyright (c) 2026 Yoseph Kevin Hendrata. All rights reserved. See [LICENSE](LICENSE).
+Copyright (c) 2026 Yoseph Kevin Hendrata. All rights reserved.
